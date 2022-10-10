@@ -1,7 +1,6 @@
 ## ✌️ Hello
 ### My name is Bruno Oliveira, I'm student in the Information Systems course, focusing on back-end development.
 - 🔭 I’m currently open to work
-- 🌱 I'm currently learning Java and its technologies
 ##
 
 
