@@ -1,5 +1,5 @@
 ## ✌️ Hello
-### My name is Bruno Oliveira, I'm student in the Information Systems course, focusing on back-end development.
+### My name is Bruno Oliveira, I'm student in the Information Systems course.
 - 🔭 I’m currently open to work
 ##
 
